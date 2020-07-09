@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi all 👋 I'm Zakarya
+I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools. I am currently preparing a master's thesis in Data Science and Big Data at Faculty of Sciences and Technologies - Tangier.
 
 <!--
 **404Zack/404Zack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
