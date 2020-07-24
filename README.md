@@ -2,7 +2,7 @@
 I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools. I am currently preparing a master's thesis in Data Science and Big Data at Faculty of Sciences and Technologies - Tangier.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=404Zack&show_icons=true&fbclid=IwAR3uvtBWL73s_nfqEWiU5Nnn5Fr8DEaXgiG3dwP-8ONbICIXc3YKb0uFwMw)
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=404Zack&repo=github-readme-stats)](https://github.com/404Zack/numpy_neural_net)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=404Zack&repo=numpy_neural_net)](https://github.com/404Zack/numpy_neural_net)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404Zack)](https://github.com/404Zack/numpy_neural_net)
 
