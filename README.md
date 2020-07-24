@@ -1,6 +1,6 @@
 ### Hi all 👋 I'm Zakarya
 I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools. I am currently preparing a master's thesis in Data Science and Big Data at Faculty of Sciences and Technologies - Tangier.
-
+![Github stats](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3D404Zack%26show_icons%3Dtrue%26fbclid%3DIwAR3uvtBWL73s_nfqEWiU5Nnn5Fr8DEaXgiG3dwP-8ONbICIXc3YKb0uFwMw&h=AT0I1sqNx3VuJhkpFzzDnAcyGUVXfAlY6TxpD8x5VpPtjQltpYlWBNPdt7p_7z3zgLxZnh25wE_ny9FaKrutIDM8kHD6-wNIet_fNy-LiFDxmr7M_Gzniwv9NiHATmXMgeLZVXiwYSSpv1zOcbWG_zs-sWGZbEe2_7bG_IGStU15yvI071agDR3V_nooN4ZEWQ5jI2ls8Y5FzuAQbijvACcdPEE3345sP9Ny94o1bPh-HZKF7Iwk3B1J0WcGLjXZr2FsHw0F9pE48hlra8QQ5ZbEcxWQzT9juvIC3NmAq04sphSjbsh1kHwBED5jWMpLI3NqhrPcuequPCmqCdHV5KXaiL948teM_VScKtYOYsHetcODAuEOkePys0FxITteeY8R_ULQXuvKGeG3AW4tGaY-J-bG4phRevVq7JNTXecqpWGYcFy4PGjoANqTzdXkn1vURxPrw4Whtgdd0lUGyIQxLRa3TbjLmP7yZaBFTG__M6vOTYj3QQVpwNO_fpRYz7XedXitLtgIoXjGIeZEFSBICZZVYYR5adKMCiri4pn0JK5WSU3GJiGJRgc-4DT-Lp4kOzn9qmam5g7NRMwaFF0ugbXA5WTl40HBvhv23wyp1eQp-thpEPpAIj2h)
 <!--
 **404Zack/404Zack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
