@@ -1,5 +1,19 @@
-### Hi all 👋 I'm Zakarya
-I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools. I am currently preparing a master's thesis in Data Science and Big Data at Faculty of Sciences and Technologies - Tangier.
+
+<h1 align="center">Hi all 👋 I'm Zakarya</h1>
+
+<h3 align="center">Data Scientist / NLP engineer </h3>
+<h3 align="center">NLP | Machine Learning | Deep Learning | Python | AWS</h3>  
+
+<p align="center">
+<a href="https://twitter.com/404Zack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nlpguy_" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/zack404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavsarpratik" height="20" width="20" /></a>
+<a href="https://medium.com/@zakaryarouzki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pratikbhavsar" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCsxmZIVR_HVWHpJTPxe284g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratik bhavsar" height="20" width="20" /></a>
+</p>
+
+
+
+I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=404Zack&show_icons=true&fbclid=IwAR3uvtBWL73s_nfqEWiU5Nnn5Fr8DEaXgiG3dwP-8ONbICIXc3YKb0uFwMw)
 <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=404Zack&repo=numpy_neural_net)](https://github.com/404Zack/numpy_neural_net)
