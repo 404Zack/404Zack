@@ -14,6 +14,15 @@
 
 
 I am a passionate data scientist who has programming, statistics, mathematics, engineering skills, I have studied machine learning, deep learning, programming , and other types of data analytics and data visualization tools.
+
+
+### Skills
+#### Language and Packages
+<p>  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  </p>
+
+#### Deployment
+<p>  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  </p>
+<br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=404Zack&show_icons=true&fbclid=IwAR3uvtBWL73s_nfqEWiU5Nnn5Fr8DEaXgiG3dwP-8ONbICIXc3YKb0uFwMw)
 <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=404Zack&repo=numpy_neural_net)](https://github.com/404Zack/numpy_neural_net)
