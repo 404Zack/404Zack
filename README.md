@@ -22,7 +22,8 @@ I am a passionate data scientist who has programming, statistics, mathematics, e
 
 #### Deployment
 <p>  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  </p>
-<br>
+
+#### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=404Zack&show_icons=true&fbclid=IwAR3uvtBWL73s_nfqEWiU5Nnn5Fr8DEaXgiG3dwP-8ONbICIXc3YKb0uFwMw)
 <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=404Zack&repo=numpy_neural_net)](https://github.com/404Zack/numpy_neural_net)
